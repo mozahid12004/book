@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <title>html basics</title>
+
+    </head>
+
+<body> 
+    
+
+    <div>one home work</div>
+<br><br>
+
+<div>device image</div>
+
+<img
+width="200"
+height="250"
+src="C:\Users\user\OneDrive\Desktop\mozahid\mozahid.JPG" alt="picture not found">
+
+<br><br>
+
+<div>device missimg image micing</div>
+<img
+width="200"
+height="250"
+src="mo.jpg" alt="picture not found">
+
+<br><br>
+
+<div>online image</div>
+<img
+width="200"
+height="250"
+src="https://media.istockphoto.com/id/2153544401/photo/group-of-kazakh-eagle-hunters-riding-horses-in-bayan-olgii-west-mongolia.jpg?s=1024x1024&w=is&k=20&c=Ix4AFt4OCqohgvUITKPazJpqI9NKTy9ES108NsOXBvk=" alt="picture not found">
+
+<br><br>
+
+<div>hyperlink ar babohar</div>
+
+<a href="https://www.facebook.com/login/">click</a>
+
+<br>
+
+<div>p tag ar babohar</div>
+
+<br>
+
+<div>paragraph 50 word show</div>
+<p>
+Sharing your cookies helps us improve the site, 
+<!--optimize your experience, and understand the extent of our impact. 
+By closing this banner.-->
+</p>
+</body>
+</html>
